@@ -58,10 +58,10 @@
 - 🛒 **Web Scraping Mini Projects:** Flipkart, Glassdoor job data using BeautifulSoup & APIs
 - 🎶 **Spotify Data Analysis & Dashboard:** 🎯-Conducted an in-depth analysis of Spotify's song dataset to identify trends and forecast streaming behaviors.
 - **And many more ...**
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sadnya-kolhe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sadnya20&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Sadnya20's GitHub Streak" />
 </p>
 
 
