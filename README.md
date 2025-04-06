@@ -1,14 +1,22 @@
-# Hi there, I'm Sadnya 👋
+# 👋 Hi there, I'm Sadnya!
 
-🎓 MSc Informatics | Aspiring Data Analyst | Python & Power BI Enthusiast  
-🔍 Passionate about uncovering insights from data and solving real-world problems  
-🚀 Currently exploring about  Data Engineering , AI-powered tools and Deep Learning 
+🎓 **MSc in Informatics** | 🎯 **Aspiring Data Analyst** | 🐍 **Python & Power BI Enthusiast**
 
-## 🔧 Skills
-- **Languages:** Python, SQL, HTML, CSS
-- **Tools:** Power BI, Tableau, Excel, Jupyter Notebook, Git
-- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, Plotly,Beautifulsoup, Selenium
-- **Soft Skills:** Storytelling, Decision Making, Problem Solving, Teamwork , Enthusiastic
+💡 I’m passionate about **transforming data into meaningful insights** to solve real-world problems.  
+🔎 Constantly learning and exploring new tools in the world of **Data Analytics, AI, and Data Engineering**.  
+🌱 Currently diving deeper into **Deep Learning** and **AI-powered tools** to broaden my skillset.  
+📊 I love working with data — whether it's cleaning it, visualizing it, or making predictions with it!
+
+
+### 🌟 Fun Facts:
+- 🧠 I see data stories everywhere — even in my coffee patterns ☕
+- 💻 I build mini projects for fun using APIs, web scraping, and dashboards
+- 💬 I believe good communication turns great data into great decisions
+- 🌸 Flowers, mystery novels, and dashboards = my happy place
+
+
+## 🔧 Soft Skills
+ Storytelling, Decision Making, Problem Solving, Teamwork , Enthusiastic
 ## 🛠 Languages and Tools
 
 ### 💻 Languages
@@ -50,6 +58,11 @@
 - 🛒 **Web Scraping Mini Projects:** Flipkart, Glassdoor job data using BeautifulSoup & APIs
 - 🎶 **Spotify Data Analysis & Dashboard:** 🎯-Conducted an in-depth analysis of Spotify's song dataset to identify trends and forecast streaming behaviors.
 - **And many more ...**
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sadnya-kolhe&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" />
+</p>
 
 
 ## 📫 Let's Connect
