@@ -52,11 +52,11 @@
 
 
 ## 💼 Projects
-- ✈️ **Airline Profitability Prediction:** ML model using Random Forest, Power BI dashboards  Startup Investment Analysis
 - 🎯 **Startup Investment Analysis:** Built an interactive dashboard to analyze funding trends by year, sector, and location. Extracted insights on top investors, most-funded industries, and city-wise investment patterns.
 - 🎶 **Music Store SQL Analysis:** Customer and sales insights using complex queries  
 - 🛒 **Web Scraping Mini Projects:** Flipkart, Glassdoor job data using BeautifulSoup & APIs
 - 🎶 **Spotify Data Analysis & Dashboard:** 🎯-Conducted an in-depth analysis of Spotify's song dataset to identify trends and forecast streaming behaviors.
+- ✈️ **Airline Profitability Prediction:** ML model using Random Forest, Power BI dashboards  Startup Investment Analysis
 - **And many more ...**
 ## 🔥 GitHub Streak Stats
 
