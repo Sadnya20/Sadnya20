@@ -46,8 +46,6 @@
 ### 🤖 Machine Learning & Deep Learning
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10277e?style=flat&logo=google)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8e44ad?style=flat&logo=tensorflow)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras)
 
 
 
